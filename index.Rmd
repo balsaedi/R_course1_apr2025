@@ -1,8 +1,10 @@
 ---
-title: "Statistical Programming, Simulation and Modeling"
+title: "Introduction to R"
 author: "Dr. Basim Alsaedi"
 date: "`r Sys.Date()`"
 output:
+  slidy_presentation:
+    incremental: false
   ioslides_presentation:
     widescreen: true
     incremental: false
